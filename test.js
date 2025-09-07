@@ -1,1 +1,2 @@
-console.log('test forge')
+console.log('test forge');
+console.log('GC-2')
